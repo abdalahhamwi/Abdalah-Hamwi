@@ -1,4 +1,8 @@
-# 👋 Hi, I’m @Abdalah Hamwi
+# 👋 Hi, I’m @Abdalah Hamwi 
+
+I'm a Back-End developer specialized in building web applications with **Django**.  
+I focus on creating powerful and flexible APIs using **Django REST Framework**,  
+and I strive to design scalable, maintainable solutions with clean code and great performance.  
 
 Welcome to my GitHub account!
 
