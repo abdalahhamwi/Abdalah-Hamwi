@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Toktorov Kurmanbek
+# 👋 Hi, I’m @Abdalah Hamwi
 
 Welcome to my GitHub account!
 
